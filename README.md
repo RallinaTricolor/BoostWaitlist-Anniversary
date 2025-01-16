@@ -1,3 +1,5 @@
+# This is no longer necessary, the original addon has been patched.
+
 Forked from [BoostWaitlist](https://www.curseforge.com/wow/addons/boostwaitlist) v3.2.0 (WotLK Version)
 
 Fixes:
